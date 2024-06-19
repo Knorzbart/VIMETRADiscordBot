@@ -11,7 +11,7 @@ import re
 from langdetect import detect
 from difflib import SequenceMatcher
 
-YOUR_GUILD_ID = os.getenv('GUILD_ID')
+YOUR_GUILD_ID = 1096398948765290569 #os.getenv('GUILD_ID')
 IGNORED_CHANNELS = ["johnny-dump", "welcome", "announcements", "tester-rankings", "intro-and-templates", "johnny-features"]
 MAX_DISCORD_MESSAGE_LENGTH = 2000
 MESSAGE_PROCESSING_DELAY = 10  # Adjust the delay as needed
