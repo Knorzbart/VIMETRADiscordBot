@@ -1,0 +1,887 @@
+2024-06-10 03:41:16,540:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+2024-06-10 03:41:16,541:INFO:discord.client:logging in using static token
+2024-06-10 03:41:17,225:INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 22a470acb0a13d369b1e8738c32a5559).
+2024-06-10 03:41:19,230:INFO:root:We have logged in as Johnny The Service Bot#0733
+2024-06-10 03:41:19,230:INFO:root:Updating rankings on startup.
+2024-06-10 03:41:19,230:INFO:root:Updating tester rankings.
+2024-06-10 03:41:19,231:INFO:root:The bot is still running.
+2024-06-10 03:41:20,770:INFO:root:Rankings updated.
+2024-06-10 03:41:20,771:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 03:41:20,771:INFO:root:Updating tester rankings.
+2024-06-10 03:41:22,345:INFO:root:Rankings updated.
+2024-06-10 03:47:56,906:INFO:root:Handling direct message from knorzbart.
+2024-06-10 03:48:07,152:INFO:root:Processing message from knorzbart (ID: 240312734887968768): I found a cat in my street.
+2024-06-10 03:48:07,153:INFO:root:Rewriting message using OpenAI API.
+2024-06-10 03:48:15,748:INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 03:48:16,130:INFO:root:Rewritten message posted to allgemeine-issues: **Beschreibung:** Unbekanntes Tier in Wohngegend aufgefunden.
+**Kategorie:** Allgemeine Fehler
+**Schritte zur Reproduktion:** Beim Spazierengehen in meiner Straße habe ich eine Katze gefunden, die anscheinend keinen Besitzer hat.
+**Erwartetes Ergebnis:** Es wäre erwartet worden, dass alle Haustiere in der Region ordnungsgemäß identifiziert und ihrem Eigentümer zugeordnet sind.
+**Tatsächliches Ergebnis:** Es wurde eine streunende Katze ohne jegliche Identifikation gefunden.
+**Screenshots:** Es liegen keine relevanten Screenshots oder Logs vor.
+**Sprache:** Deutsch
+2024-06-10 03:48:16,130:INFO:root:Notifying bot listeners about a new message from knorzbart.
+2024-06-10 03:48:16,355:INFO:root:Updating tester rankings.
+2024-06-10 03:48:17,787:INFO:root:Rankings updated.
+2024-06-10 03:49:07,561:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+2024-06-10 03:49:07,562:INFO:discord.client:logging in using static token
+2024-06-10 03:49:08,296:INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 4bc3b32fb1efd0d16f1560103d1f1675).
+2024-06-10 03:49:10,300:INFO:root:We have logged in as Johnny The Service Bot#0733
+2024-06-10 03:49:10,301:INFO:root:Updating rankings on startup.
+2024-06-10 03:49:10,301:INFO:root:Updating tester rankings.
+2024-06-10 03:49:10,302:INFO:root:The bot is still running.
+2024-06-10 03:49:11,920:INFO:root:Rankings updated.
+2024-06-10 03:49:11,920:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 03:49:11,921:INFO:root:Updating tester rankings.
+2024-06-10 03:49:13,470:INFO:root:Rankings updated.
+2024-06-10 03:52:44,219:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+2024-06-10 03:52:44,220:INFO:discord.client:logging in using static token
+2024-06-10 03:52:45,254:INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 699e9509614eaccded5ea5b097a925b0).
+2024-06-10 03:52:47,259:INFO:root:We have logged in as Johnny The Service Bot#0733
+2024-06-10 03:52:47,259:INFO:root:Updating rankings on startup.
+2024-06-10 03:52:47,259:INFO:root:Updating tester rankings.
+2024-06-10 03:52:47,261:INFO:root:The bot is still running.
+2024-06-10 03:52:48,901:INFO:root:Rankings updated.
+2024-06-10 03:52:48,901:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 03:52:48,901:INFO:root:Updating tester rankings.
+2024-06-10 03:52:50,640:INFO:root:Rankings updated.
+2024-06-10 04:00:27,732:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+2024-06-10 04:00:27,734:INFO:discord.client:logging in using static token
+2024-06-10 04:00:28,558:INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: aa1c44b9b5faa5a2cb7e106413872176).
+2024-06-10 04:00:30,563:INFO:root:We have logged in as Johnny The Service Bot#0733
+2024-06-10 04:00:30,563:INFO:root:Updating rankings on startup.
+2024-06-10 04:00:30,563:INFO:root:Updating tester rankings.
+2024-06-10 04:00:30,565:INFO:root:The bot is still running.
+2024-06-10 04:00:31,257:ERROR:root:Error updating rankings: 'User' object has no attribute 'roles'
+2024-06-10 04:00:31,257:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 04:00:31,258:INFO:root:Updating tester rankings.
+2024-06-10 04:00:31,758:ERROR:root:Error updating rankings: 'User' object has no attribute 'roles'
+2024-06-10 04:03:58,177:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+2024-06-10 04:03:58,179:INFO:discord.client:logging in using static token
+2024-06-10 04:03:59,138:INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 3af449be5a9c2a984d695bf0123efdc3).
+2024-06-10 04:04:01,149:INFO:root:We have logged in as Johnny The Service Bot#0733
+2024-06-10 04:04:01,149:INFO:root:Updating rankings on startup.
+2024-06-10 04:04:01,149:INFO:root:Updating tester rankings.
+2024-06-10 04:04:01,151:INFO:root:The bot is still running.
+2024-06-10 04:04:05,145:INFO:root:Rankings updated.
+2024-06-10 04:04:05,145:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 04:04:05,145:INFO:root:Updating tester rankings.
+2024-06-10 04:04:08,371:INFO:root:Rankings updated.
+2024-06-10 04:05:22,034:INFO:root:Handling direct message from knorzbart.
+2024-06-10 04:05:32,277:INFO:root:Processing message from knorzbart (ID: 240312734887968768): There is a cat in the garden
+2024-06-10 04:05:32,277:INFO:root:Rewriting message using OpenAI API.
+2024-06-10 04:05:36,533:INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 04:05:36,938:INFO:root:Rewritten message posted to allgemeine-issues: **Beschreibung:** Es wurde eine Katze im Garten gesichtet.
+**Kategorie:** Allgemeine Fehler
+**Schritte zur Reproduktion:** Erkennen der Katze im Garten.
+**Erwartetes Ergebnis:** Der Garten sollte frei von Haustieren sein.
+**Tatsächliches Ergebnis:** Eine Katze wurde im Garten gefunden.
+**Screenshots:** Nicht verfügbar.
+**Sprache:** Deutsch
+2024-06-10 04:05:36,939:INFO:root:Notifying bot listeners about a new message from knorzbart.
+2024-06-10 04:05:37,111:INFO:root:Updating tester rankings.
+2024-06-10 04:05:39,872:INFO:root:Rankings updated.
+2024-06-10 04:09:05,148:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 04:09:05,149:INFO:root:Updating tester rankings.
+2024-06-10 04:09:08,182:INFO:root:Rankings updated.
+2024-06-10 04:14:05,168:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 04:14:05,169:INFO:root:Updating tester rankings.
+2024-06-10 04:14:08,194:INFO:root:Rankings updated.
+2024-06-10 04:19:01,188:INFO:root:The bot is still running.
+2024-06-10 04:19:05,151:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 04:19:05,151:INFO:root:Updating tester rankings.
+2024-06-10 04:19:08,335:INFO:root:Rankings updated.
+2024-06-10 04:21:05,260:INFO:discord.gateway:Shard ID None has successfully RESUMED session 3af449be5a9c2a984d695bf0123efdc3.
+2024-06-10 04:24:05,153:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 04:24:05,153:INFO:root:Updating tester rankings.
+2024-06-10 04:24:08,139:INFO:root:Rankings updated.
+2024-06-10 04:29:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 04:29:05,150:INFO:root:Updating tester rankings.
+2024-06-10 04:29:08,178:INFO:root:Rankings updated.
+2024-06-10 04:34:01,160:INFO:root:The bot is still running.
+2024-06-10 04:34:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 04:34:05,150:INFO:root:Updating tester rankings.
+2024-06-10 04:34:08,213:INFO:root:Rankings updated.
+2024-06-10 04:39:05,153:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 04:39:05,154:INFO:root:Updating tester rankings.
+2024-06-10 04:39:08,269:INFO:root:Rankings updated.
+2024-06-10 04:44:05,164:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 04:44:05,164:INFO:root:Updating tester rankings.
+2024-06-10 04:44:08,519:INFO:root:Rankings updated.
+2024-06-10 04:49:01,159:INFO:root:The bot is still running.
+2024-06-10 04:49:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 04:49:05,150:INFO:root:Updating tester rankings.
+2024-06-10 04:49:08,285:INFO:root:Rankings updated.
+2024-06-10 04:54:05,179:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 04:54:05,179:INFO:root:Updating tester rankings.
+2024-06-10 04:54:08,137:INFO:root:Rankings updated.
+2024-06-10 04:59:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 04:59:05,150:INFO:root:Updating tester rankings.
+2024-06-10 04:59:08,233:INFO:root:Rankings updated.
+2024-06-10 05:04:01,170:INFO:root:The bot is still running.
+2024-06-10 05:04:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 05:04:05,151:INFO:root:Updating tester rankings.
+2024-06-10 05:04:08,192:INFO:root:Rankings updated.
+2024-06-10 05:09:05,180:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 05:09:05,181:INFO:root:Updating tester rankings.
+2024-06-10 05:09:08,350:INFO:root:Rankings updated.
+2024-06-10 05:14:05,151:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 05:14:05,151:INFO:root:Updating tester rankings.
+2024-06-10 05:14:08,160:INFO:root:Rankings updated.
+2024-06-10 05:19:01,163:INFO:root:The bot is still running.
+2024-06-10 05:19:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 05:19:05,150:INFO:root:Updating tester rankings.
+2024-06-10 05:19:08,280:INFO:root:Rankings updated.
+2024-06-10 05:24:05,172:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 05:24:05,172:INFO:root:Updating tester rankings.
+2024-06-10 05:24:08,292:INFO:root:Rankings updated.
+2024-06-10 05:29:05,147:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 05:29:05,147:INFO:root:Updating tester rankings.
+2024-06-10 05:29:08,178:INFO:root:Rankings updated.
+2024-06-10 05:34:01,155:INFO:root:The bot is still running.
+2024-06-10 05:34:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 05:34:05,150:INFO:root:Updating tester rankings.
+2024-06-10 05:34:08,208:INFO:root:Rankings updated.
+2024-06-10 05:39:05,164:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 05:39:05,164:INFO:root:Updating tester rankings.
+2024-06-10 05:39:08,622:INFO:root:Rankings updated.
+2024-06-10 05:44:05,168:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 05:44:05,169:INFO:root:Updating tester rankings.
+2024-06-10 05:44:08,428:INFO:root:Rankings updated.
+2024-06-10 05:49:01,172:INFO:root:The bot is still running.
+2024-06-10 05:49:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 05:49:05,150:INFO:root:Updating tester rankings.
+2024-06-10 05:49:08,457:INFO:root:Rankings updated.
+2024-06-10 05:54:05,157:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 05:54:05,157:INFO:root:Updating tester rankings.
+2024-06-10 05:54:12,405:INFO:root:Rankings updated.
+2024-06-10 05:59:05,168:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 05:59:05,168:INFO:root:Updating tester rankings.
+2024-06-10 05:59:08,196:INFO:root:Rankings updated.
+2024-06-10 06:04:01,169:INFO:root:The bot is still running.
+2024-06-10 06:04:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 06:04:05,150:INFO:root:Updating tester rankings.
+2024-06-10 06:04:08,567:INFO:root:Rankings updated.
+2024-06-10 06:09:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 06:09:05,151:INFO:root:Updating tester rankings.
+2024-06-10 06:09:08,321:INFO:root:Rankings updated.
+2024-06-10 06:14:05,154:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 06:14:05,155:INFO:root:Updating tester rankings.
+2024-06-10 06:14:09,318:INFO:root:Rankings updated.
+2024-06-10 06:19:01,174:INFO:root:The bot is still running.
+2024-06-10 06:19:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 06:19:05,151:INFO:root:Updating tester rankings.
+2024-06-10 06:19:08,395:INFO:root:Rankings updated.
+2024-06-10 06:24:05,152:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 06:24:05,153:INFO:root:Updating tester rankings.
+2024-06-10 06:24:08,508:INFO:root:Rankings updated.
+2024-06-10 06:29:05,153:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 06:29:05,154:INFO:root:Updating tester rankings.
+2024-06-10 06:29:08,433:INFO:root:Rankings updated.
+2024-06-10 06:34:01,166:INFO:root:The bot is still running.
+2024-06-10 06:34:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 06:34:05,151:INFO:root:Updating tester rankings.
+2024-06-10 06:34:08,179:INFO:root:Rankings updated.
+2024-06-10 06:39:05,172:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 06:39:05,173:INFO:root:Updating tester rankings.
+2024-06-10 06:39:08,248:INFO:root:Rankings updated.
+2024-06-10 06:44:05,164:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 06:44:05,164:INFO:root:Updating tester rankings.
+2024-06-10 06:44:10,423:INFO:root:Rankings updated.
+2024-06-10 06:49:01,156:INFO:root:The bot is still running.
+2024-06-10 06:49:05,148:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 06:49:05,148:INFO:root:Updating tester rankings.
+2024-06-10 06:49:08,532:INFO:root:Rankings updated.
+2024-06-10 06:54:05,168:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 06:54:05,169:INFO:root:Updating tester rankings.
+2024-06-10 06:54:08,414:INFO:root:Rankings updated.
+2024-06-10 06:59:05,160:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 06:59:05,160:INFO:root:Updating tester rankings.
+2024-06-10 06:59:08,516:INFO:root:Rankings updated.
+2024-06-10 07:04:01,152:INFO:root:The bot is still running.
+2024-06-10 07:04:05,148:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 07:04:05,149:INFO:root:Updating tester rankings.
+2024-06-10 07:04:08,371:INFO:root:Rankings updated.
+2024-06-10 07:09:05,152:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 07:09:05,153:INFO:root:Updating tester rankings.
+2024-06-10 07:09:08,380:INFO:root:Rankings updated.
+2024-06-10 07:14:05,172:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 07:14:05,173:INFO:root:Updating tester rankings.
+2024-06-10 07:14:08,432:INFO:root:Rankings updated.
+2024-06-10 07:19:01,186:INFO:root:The bot is still running.
+2024-06-10 07:19:05,148:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 07:19:05,149:INFO:root:Updating tester rankings.
+2024-06-10 07:19:08,836:INFO:root:Rankings updated.
+2024-06-10 07:24:05,152:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 07:24:05,153:INFO:root:Updating tester rankings.
+2024-06-10 07:24:08,581:INFO:root:Rankings updated.
+2024-06-10 07:29:05,164:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 07:29:05,164:INFO:root:Updating tester rankings.
+2024-06-10 07:29:08,556:INFO:root:Rankings updated.
+2024-06-10 07:34:01,172:INFO:root:The bot is still running.
+2024-06-10 07:34:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 07:34:05,150:INFO:root:Updating tester rankings.
+2024-06-10 07:34:08,307:INFO:root:Rankings updated.
+2024-06-10 07:39:05,172:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 07:39:05,172:INFO:root:Updating tester rankings.
+2024-06-10 07:39:08,147:INFO:root:Rankings updated.
+2024-06-10 07:44:05,151:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 07:44:05,151:INFO:root:Updating tester rankings.
+2024-06-10 07:44:08,156:INFO:root:Rankings updated.
+2024-06-10 07:49:01,170:INFO:root:The bot is still running.
+2024-06-10 07:49:05,148:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 07:49:05,148:INFO:root:Updating tester rankings.
+2024-06-10 07:49:08,543:INFO:root:Rankings updated.
+2024-06-10 07:54:05,181:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 07:54:05,181:INFO:root:Updating tester rankings.
+2024-06-10 07:54:08,645:INFO:root:Rankings updated.
+2024-06-10 07:59:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 07:59:05,151:INFO:root:Updating tester rankings.
+2024-06-10 07:59:08,421:INFO:root:Rankings updated.
+2024-06-10 08:04:01,162:INFO:root:The bot is still running.
+2024-06-10 08:04:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 08:04:05,150:INFO:root:Updating tester rankings.
+2024-06-10 08:04:08,448:INFO:root:Rankings updated.
+2024-06-10 08:08:12,410:INFO:discord.gateway:Shard ID None has successfully RESUMED session 3af449be5a9c2a984d695bf0123efdc3.
+2024-06-10 08:09:05,157:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 08:09:05,157:INFO:root:Updating tester rankings.
+2024-06-10 08:09:08,374:INFO:root:Rankings updated.
+2024-06-10 08:14:05,156:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 08:14:05,157:INFO:root:Updating tester rankings.
+2024-06-10 08:14:08,692:INFO:root:Rankings updated.
+2024-06-10 08:19:01,169:INFO:root:The bot is still running.
+2024-06-10 08:19:05,148:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 08:19:05,149:INFO:root:Updating tester rankings.
+2024-06-10 08:19:08,496:INFO:root:Rankings updated.
+2024-06-10 08:24:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 08:24:05,151:INFO:root:Updating tester rankings.
+2024-06-10 08:24:08,486:INFO:root:Rankings updated.
+2024-06-10 08:29:05,162:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 08:29:05,163:INFO:root:Updating tester rankings.
+2024-06-10 08:29:08,354:INFO:root:Rankings updated.
+2024-06-10 08:34:01,174:INFO:root:The bot is still running.
+2024-06-10 08:34:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 08:34:05,150:INFO:root:Updating tester rankings.
+2024-06-10 08:34:08,211:INFO:root:Rankings updated.
+2024-06-10 08:39:05,160:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 08:39:05,160:INFO:root:Updating tester rankings.
+2024-06-10 08:39:08,520:INFO:root:Rankings updated.
+2024-06-10 08:44:05,152:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 08:44:05,152:INFO:root:Updating tester rankings.
+2024-06-10 08:44:08,505:INFO:root:Rankings updated.
+2024-06-10 08:49:01,167:INFO:root:The bot is still running.
+2024-06-10 08:49:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 08:49:05,151:INFO:root:Updating tester rankings.
+2024-06-10 08:49:09,572:INFO:root:Rankings updated.
+2024-06-10 08:54:05,172:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 08:54:05,173:INFO:root:Updating tester rankings.
+2024-06-10 08:54:08,875:INFO:root:Rankings updated.
+2024-06-10 08:59:05,146:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 08:59:05,147:INFO:root:Updating tester rankings.
+2024-06-10 08:59:08,596:INFO:root:Rankings updated.
+2024-06-10 09:04:01,160:INFO:root:The bot is still running.
+2024-06-10 09:04:05,148:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 09:04:05,148:INFO:root:Updating tester rankings.
+2024-06-10 09:04:08,427:INFO:root:Rankings updated.
+2024-06-10 09:09:05,169:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 09:09:05,170:INFO:root:Updating tester rankings.
+2024-06-10 09:09:08,579:INFO:root:Rankings updated.
+2024-06-10 09:14:05,156:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 09:14:05,157:INFO:root:Updating tester rankings.
+2024-06-10 09:14:08,314:INFO:root:Rankings updated.
+2024-06-10 09:19:01,151:INFO:root:The bot is still running.
+2024-06-10 09:19:05,149:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 09:19:05,150:INFO:root:Updating tester rankings.
+2024-06-10 09:19:08,553:INFO:root:Rankings updated.
+2024-06-10 09:24:05,156:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 09:24:05,157:INFO:root:Updating tester rankings.
+2024-06-10 09:24:08,515:INFO:root:Rankings updated.
+2024-06-10 09:28:55,087:INFO:discord.gateway:Shard ID None has successfully RESUMED session 3af449be5a9c2a984d695bf0123efdc3.
+2024-06-10 09:29:05,156:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 09:29:05,156:INFO:root:Updating tester rankings.
+2024-06-10 09:29:08,625:INFO:root:Rankings updated.
+2024-06-10 09:34:01,156:INFO:root:The bot is still running.
+2024-06-10 09:34:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 09:34:05,150:INFO:root:Updating tester rankings.
+2024-06-10 09:34:08,597:INFO:root:Rankings updated.
+2024-06-10 09:39:05,159:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 09:39:05,159:INFO:root:Updating tester rankings.
+2024-06-10 09:39:08,361:INFO:root:Rankings updated.
+2024-06-10 09:44:05,149:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 09:44:05,149:INFO:root:Updating tester rankings.
+2024-06-10 09:44:08,555:INFO:root:Rankings updated.
+2024-06-10 09:49:01,162:INFO:root:The bot is still running.
+2024-06-10 09:49:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 09:49:05,150:INFO:root:Updating tester rankings.
+2024-06-10 09:49:08,505:INFO:root:Rankings updated.
+2024-06-10 09:54:05,149:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 09:54:05,149:INFO:root:Updating tester rankings.
+2024-06-10 09:54:08,314:INFO:root:Rankings updated.
+2024-06-10 09:59:05,176:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 09:59:05,177:INFO:root:Updating tester rankings.
+2024-06-10 09:59:08,402:INFO:root:Rankings updated.
+2024-06-10 10:04:01,155:INFO:root:The bot is still running.
+2024-06-10 10:04:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 10:04:05,150:INFO:root:Updating tester rankings.
+2024-06-10 10:04:09,018:INFO:root:Rankings updated.
+2024-06-10 10:09:05,152:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 10:09:05,153:INFO:root:Updating tester rankings.
+2024-06-10 10:09:08,858:INFO:root:Rankings updated.
+2024-06-10 10:14:05,152:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 10:14:05,152:INFO:root:Updating tester rankings.
+2024-06-10 10:14:08,240:INFO:root:Rankings updated.
+2024-06-10 10:19:01,176:INFO:root:The bot is still running.
+2024-06-10 10:19:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 10:19:05,150:INFO:root:Updating tester rankings.
+2024-06-10 10:19:08,388:INFO:root:Rankings updated.
+2024-06-10 10:24:05,157:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 10:24:05,157:INFO:root:Updating tester rankings.
+2024-06-10 10:24:08,679:INFO:root:Rankings updated.
+2024-06-10 10:29:05,168:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 10:29:05,168:INFO:root:Updating tester rankings.
+2024-06-10 10:29:08,483:INFO:root:Rankings updated.
+2024-06-10 10:34:01,181:INFO:root:The bot is still running.
+2024-06-10 10:34:05,147:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 10:34:05,148:INFO:root:Updating tester rankings.
+2024-06-10 10:34:08,250:INFO:root:Rankings updated.
+2024-06-10 10:39:05,149:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 10:39:05,149:INFO:root:Updating tester rankings.
+2024-06-10 10:39:08,489:INFO:root:Rankings updated.
+2024-06-10 10:44:05,158:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 10:44:05,158:INFO:root:Updating tester rankings.
+2024-06-10 10:44:08,707:INFO:root:Rankings updated.
+2024-06-10 10:49:01,174:INFO:root:The bot is still running.
+2024-06-10 10:49:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 10:49:05,151:INFO:root:Updating tester rankings.
+2024-06-10 10:49:08,341:INFO:root:Rankings updated.
+2024-06-10 10:54:05,182:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 10:54:05,183:INFO:root:Updating tester rankings.
+2024-06-10 10:54:08,699:INFO:root:Rankings updated.
+2024-06-10 10:59:05,153:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 10:59:05,154:INFO:root:Updating tester rankings.
+2024-06-10 10:59:08,507:INFO:root:Rankings updated.
+2024-06-10 11:04:01,156:INFO:root:The bot is still running.
+2024-06-10 11:04:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 11:04:05,151:INFO:root:Updating tester rankings.
+2024-06-10 11:04:08,365:INFO:root:Rankings updated.
+2024-06-10 11:09:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 11:09:05,150:INFO:root:Updating tester rankings.
+2024-06-10 11:09:08,459:INFO:root:Rankings updated.
+2024-06-10 11:14:05,186:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 11:14:05,186:INFO:root:Updating tester rankings.
+2024-06-10 11:14:08,524:INFO:root:Rankings updated.
+2024-06-10 11:19:01,156:INFO:root:The bot is still running.
+2024-06-10 11:19:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 11:19:05,150:INFO:root:Updating tester rankings.
+2024-06-10 11:19:08,593:INFO:root:Rankings updated.
+2024-06-10 11:24:05,168:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 11:24:05,168:INFO:root:Updating tester rankings.
+2024-06-10 11:24:08,626:INFO:root:Rankings updated.
+2024-06-10 11:29:05,179:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 11:29:05,180:INFO:root:Updating tester rankings.
+2024-06-10 11:29:08,657:INFO:root:Rankings updated.
+2024-06-10 11:34:01,160:INFO:root:The bot is still running.
+2024-06-10 11:34:05,148:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 11:34:05,149:INFO:root:Updating tester rankings.
+2024-06-10 11:34:08,173:INFO:root:Rankings updated.
+2024-06-10 11:39:05,148:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 11:39:05,149:INFO:root:Updating tester rankings.
+2024-06-10 11:39:08,393:INFO:root:Rankings updated.
+2024-06-10 11:44:05,159:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 11:44:05,159:INFO:root:Updating tester rankings.
+2024-06-10 11:44:08,568:INFO:root:Rankings updated.
+2024-06-10 11:49:01,184:INFO:root:The bot is still running.
+2024-06-10 11:49:05,151:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 11:49:05,151:INFO:root:Updating tester rankings.
+2024-06-10 11:49:08,474:INFO:root:Rankings updated.
+2024-06-10 11:54:05,147:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 11:54:05,147:INFO:root:Updating tester rankings.
+2024-06-10 11:54:08,537:INFO:root:Rankings updated.
+2024-06-10 11:59:05,156:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 11:59:05,157:INFO:root:Updating tester rankings.
+2024-06-10 11:59:08,551:INFO:root:Rankings updated.
+2024-06-10 12:04:01,176:INFO:root:The bot is still running.
+2024-06-10 12:04:05,148:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 12:04:05,148:INFO:root:Updating tester rankings.
+2024-06-10 12:04:08,792:INFO:root:Rankings updated.
+2024-06-10 12:09:05,187:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 12:09:05,187:INFO:root:Updating tester rankings.
+2024-06-10 12:09:08,882:INFO:root:Rankings updated.
+2024-06-10 12:14:05,156:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 12:14:05,157:INFO:root:Updating tester rankings.
+2024-06-10 12:14:08,586:INFO:root:Rankings updated.
+2024-06-10 12:19:01,170:INFO:root:The bot is still running.
+2024-06-10 12:19:05,148:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 12:19:05,149:INFO:root:Updating tester rankings.
+2024-06-10 12:19:08,945:INFO:root:Rankings updated.
+2024-06-10 12:24:05,176:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 12:24:05,177:INFO:root:Updating tester rankings.
+2024-06-10 12:24:09,440:INFO:root:Rankings updated.
+2024-06-10 12:29:05,148:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 12:29:05,148:INFO:root:Updating tester rankings.
+2024-06-10 12:29:08,642:INFO:root:Rankings updated.
+2024-06-10 12:30:39,544:INFO:discord.gateway:Shard ID None has successfully RESUMED session 3af449be5a9c2a984d695bf0123efdc3.
+2024-06-10 12:34:01,188:INFO:root:The bot is still running.
+2024-06-10 12:34:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 12:34:05,150:INFO:root:Updating tester rankings.
+2024-06-10 12:34:08,417:INFO:root:Rankings updated.
+2024-06-10 12:39:05,156:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 12:39:05,157:INFO:root:Updating tester rankings.
+2024-06-10 12:39:09,250:INFO:root:Rankings updated.
+2024-06-10 12:44:05,169:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 12:44:05,170:INFO:root:Updating tester rankings.
+2024-06-10 12:44:08,762:INFO:root:Rankings updated.
+2024-06-10 12:49:01,164:INFO:root:The bot is still running.
+2024-06-10 12:49:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 12:49:05,150:INFO:root:Updating tester rankings.
+2024-06-10 12:49:08,650:INFO:root:Rankings updated.
+2024-06-10 12:54:05,149:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 12:54:05,150:INFO:root:Updating tester rankings.
+2024-06-10 12:54:09,435:INFO:root:Rankings updated.
+2024-06-10 12:59:05,161:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 12:59:05,161:INFO:root:Updating tester rankings.
+2024-06-10 12:59:08,983:INFO:root:Rankings updated.
+2024-06-10 13:04:01,173:INFO:root:The bot is still running.
+2024-06-10 13:04:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 13:04:05,151:INFO:root:Updating tester rankings.
+2024-06-10 13:04:08,497:INFO:root:Rankings updated.
+2024-06-10 13:09:05,183:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 13:09:05,184:INFO:root:Updating tester rankings.
+2024-06-10 13:09:08,369:INFO:root:Rankings updated.
+2024-06-10 13:14:05,153:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 13:14:05,153:INFO:root:Updating tester rankings.
+2024-06-10 13:14:08,416:INFO:root:Rankings updated.
+2024-06-10 13:19:01,156:INFO:root:The bot is still running.
+2024-06-10 13:19:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 13:19:05,150:INFO:root:Updating tester rankings.
+2024-06-10 13:19:08,812:INFO:root:Rankings updated.
+2024-06-10 13:24:05,152:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 13:24:05,153:INFO:root:Updating tester rankings.
+2024-06-10 13:24:08,898:INFO:root:Rankings updated.
+2024-06-10 13:29:05,186:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 13:29:05,186:INFO:root:Updating tester rankings.
+2024-06-10 13:29:08,720:INFO:root:Rankings updated.
+2024-06-10 13:34:01,158:INFO:root:The bot is still running.
+2024-06-10 13:34:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 13:34:05,150:INFO:root:Updating tester rankings.
+2024-06-10 13:34:08,512:INFO:root:Rankings updated.
+2024-06-10 13:39:05,168:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 13:39:05,169:INFO:root:Updating tester rankings.
+2024-06-10 13:39:08,882:INFO:root:Rankings updated.
+2024-06-10 13:44:05,148:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 13:44:05,149:INFO:root:Updating tester rankings.
+2024-06-10 13:44:08,881:INFO:root:Rankings updated.
+2024-06-10 13:44:41,709:INFO:discord.gateway:Shard ID None has successfully RESUMED session 3af449be5a9c2a984d695bf0123efdc3.
+2024-06-10 13:49:01,164:INFO:root:The bot is still running.
+2024-06-10 13:49:05,150:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 13:49:05,150:INFO:root:Updating tester rankings.
+2024-06-10 13:49:08,677:INFO:root:Rankings updated.
+2024-06-10 14:08:46,754:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+2024-06-10 14:08:46,756:INFO:discord.client:logging in using static token
+2024-06-10 14:08:47,584:INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 6a507cf9db6e8af1b067ad12afd0037f).
+2024-06-10 14:08:49,625:INFO:root:We have logged in as Johnny The Service Bot#0733
+2024-06-10 14:08:49,625:INFO:root:Updating rankings on startup.
+2024-06-10 14:08:49,626:INFO:root:Updating tester rankings.
+2024-06-10 14:08:49,627:INFO:root:The bot is still running.
+2024-06-10 14:08:53,302:INFO:root:Rankings updated.
+2024-06-10 14:08:53,303:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 14:08:53,303:INFO:root:Updating tester rankings.
+2024-06-10 14:08:56,491:INFO:root:Rankings updated.
+2024-06-10 14:13:53,309:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 14:13:53,309:INFO:root:Updating tester rankings.
+2024-06-10 14:13:56,568:INFO:root:Rankings updated.
+2024-06-10 14:18:53,333:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 14:18:53,333:INFO:root:Updating tester rankings.
+2024-06-10 14:18:56,633:INFO:root:Rankings updated.
+2024-06-10 14:21:09,177:INFO:root:Handling direct message from knorzbart.
+2024-06-10 14:21:19,665:INFO:root:Processing message from knorzbart (ID: 240312734887968768): Beschreibung der Funktion: Dunkelmodus für die Startseite. Anwendungsfall: Benutzer können zu einem dunklen Thema wechseln für bessere Nutzung bei Nacht. Vorteile: Reduziert Augenbelastung und verbessert die Benutzererfahrung bei Nacht.
+2024-06-10 14:21:20,377:INFO:root:Rewriting message using OpenAI API.
+2024-06-10 14:21:32,405:INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 14:21:32,890:INFO:root:Rewritten message posted to feature-requests: **Beschreibung:** Feature-Anforderung für einen Dunkelmodus für die Startseite. Diese Funktion ermöglicht es Benutzern, zu einem dunklen Thema zu wechseln, um die Anwendung während der Nacht besser nutzen zu können. Ein solcher Modus könnte Augenbelastung reduzieren und die Benutzererfahrung bei Nacht verbessern.
+
+**Kategorie:** Feature Request
+
+**Schritte zur Reproduktion:** Da dies ein Feature Request ist, gibt es keine Schritte zur Reproduktion.
+
+**Erwartetes Ergebnis:** Die Benutzer können zu einem dunklen Thema auf der Startseite wechseln, das weniger Augenbelastung verursacht und die Nutzung der Anwendung während der Nacht verbessert.
+
+**Tatsächliches Ergebnis:** Zur Zeit kein Dunkelmodus verfügbar.
+
+**Screenshots:** Keine relevanten Screenshots oder Logs für diese Anforderung.
+
+**Sprache:** Deutsch
+2024-06-10 14:21:32,891:INFO:root:Notifying bot listeners about a new message from knorzbart.
+2024-06-10 14:21:33,078:INFO:root:Updating tester rankings.
+2024-06-10 14:21:36,380:INFO:root:Rankings updated.
+2024-06-10 14:23:49,660:INFO:root:The bot is still running.
+2024-06-10 14:23:53,308:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 14:23:53,308:INFO:root:Updating tester rankings.
+2024-06-10 14:23:56,696:INFO:root:Rankings updated.
+2024-06-10 14:28:53,313:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 14:28:53,313:INFO:root:Updating tester rankings.
+2024-06-10 14:28:56,675:INFO:root:Rankings updated.
+2024-06-10 14:33:53,324:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 14:33:53,346:INFO:root:Updating tester rankings.
+2024-06-10 14:33:56,551:INFO:root:Rankings updated.
+2024-06-10 14:38:49,629:INFO:root:The bot is still running.
+2024-06-10 14:38:53,307:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 14:38:53,308:INFO:root:Updating tester rankings.
+2024-06-10 14:38:56,900:INFO:root:Rankings updated.
+2024-06-10 14:43:53,306:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 14:43:53,306:INFO:root:Updating tester rankings.
+2024-06-10 14:43:56,722:INFO:root:Rankings updated.
+2024-06-10 14:48:53,309:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 14:48:53,309:INFO:root:Updating tester rankings.
+2024-06-10 14:48:56,813:INFO:root:Rankings updated.
+2024-06-10 14:53:49,646:INFO:root:The bot is still running.
+2024-06-10 14:53:53,307:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 14:53:53,308:INFO:root:Updating tester rankings.
+2024-06-10 14:53:56,460:INFO:root:Rankings updated.
+2024-06-10 14:58:53,340:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 14:58:53,340:INFO:root:Updating tester rankings.
+2024-06-10 14:58:56,837:INFO:root:Rankings updated.
+2024-06-10 16:35:42,901:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+2024-06-10 16:35:42,903:INFO:discord.client:logging in using static token
+2024-06-10 16:35:43,834:INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: fe85b59055a8ba12b65eb92d3d8f2c68).
+2024-06-10 16:35:45,844:INFO:root:We have logged in as Johnny The Service Bot#0733
+2024-06-10 16:35:45,844:INFO:root:Updating rankings on startup.
+2024-06-10 16:35:45,845:INFO:root:Updating tester rankings.
+2024-06-10 16:35:45,846:INFO:root:The bot is still running.
+2024-06-10 16:35:49,015:INFO:root:Rankings updated.
+2024-06-10 16:35:49,015:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 16:35:49,016:INFO:root:Updating tester rankings.
+2024-06-10 16:35:52,191:INFO:root:Rankings updated.
+2024-06-10 16:40:24,784:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+2024-06-10 16:40:24,785:INFO:discord.client:logging in using static token
+2024-06-10 16:40:25,783:INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 2cccc86bdb24c212c22eb3bc76511c7b).
+2024-06-10 16:40:27,787:INFO:root:We have logged in as Johnny The Service Bot#0733
+2024-06-10 16:40:27,788:INFO:root:Updating rankings on startup.
+2024-06-10 16:40:27,788:INFO:root:Updating tester rankings.
+2024-06-10 16:40:27,789:INFO:root:The bot is still running.
+2024-06-10 16:40:31,046:INFO:root:Rankings updated.
+2024-06-10 16:40:31,047:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 16:40:31,047:INFO:root:Updating tester rankings.
+2024-06-10 16:40:34,104:INFO:root:Rankings updated.
+2024-06-10 16:45:31,053:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 16:45:31,053:INFO:root:Updating tester rankings.
+2024-06-10 16:45:34,650:INFO:root:Rankings updated.
+2024-06-10 16:47:02,275:INFO:root:Handling direct message from dboy0z_mobile.
+2024-06-10 16:47:12,701:INFO:root:Processing message from dboy0z_mobile (ID: 901426603895173181): Beschreibung: Angegebener Username wird ohne sanitizing übernommen und in die User-E-Mail eingefügt
+Kategorie: Sicherheit
+Schritte zur Reproduktion: 
+1. Auf die Startseite gehen
+2. In den Nameinput Html-Code einfügen
+3. Absenden
+Erwartetes Ergebnis: Html code sollte als plain String in der E-Mail angezeigt werden.
+Tatsächliches Ergebnis: Html code wird in der Email ausgeführt
+2024-06-10 16:47:12,701:INFO:root:Rewriting message using OpenAI API.
+2024-06-10 16:47:18,718:INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 16:47:19,106:INFO:root:Rewritten message posted to johnny-answers: Ticket Type: Issue
+
+Description: Entered username is adopted without sanitizing and inserted into the user email 
+Category: Security
+Steps to Reproduce: 
+1. Go to the homepage
+2. Insert HTML code into the name input
+3. Submit
+Expected Result: HTML code should be displayed in the email as plain string.
+Actual Result: HTML code is run in the email
+Screenshots: None provided.
+2024-06-10 16:47:19,107:INFO:root:Notifying bot listeners about a new message from dboy0z_mobile.
+2024-06-10 16:47:19,365:INFO:root:Updating tester rankings.
+2024-06-10 16:47:22,622:INFO:root:Rankings updated.
+2024-06-10 16:50:31,053:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 16:50:31,053:INFO:root:Updating tester rankings.
+2024-06-10 16:50:34,845:INFO:root:Rankings updated.
+2024-06-10 16:51:37,502:INFO:root:Handling direct message from dboy0z_mobile.
+2024-06-10 16:51:47,998:INFO:root:Processing message from dboy0z_mobile (ID: 901426603895173181): Habe ein Problem gefunden wo Html code in die entsendete Registrierungsemail eingeschleust werden kann. Dafür muss lediglich der Html code in das Inputfeld im Registrierungsformular der Startseite geschrieben werden. Der Input wird nicht sanitized.
+2024-06-10 16:51:47,998:INFO:root:Rewriting message using OpenAI API.
+2024-06-10 16:52:10,776:INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 16:52:10,777:ERROR:root:Error handling DM from dboy0z_mobile (ID: 901426603895173181): Channel sicherheits-issues not found in guild.
+2024-06-10 16:52:11,079:INFO:root:Updating tester rankings.
+2024-06-10 16:52:14,729:INFO:root:Rankings updated.
+2024-06-10 16:54:18,580:INFO:root:Handling server message from dboy0z_mobile in channel sicherheits-issues.
+2024-06-10 16:54:29,022:INFO:root:Processing message from dboy0z_mobile (ID: 901426603895173181): Habe ein Problem gefunden wo Html code in die entsendete Registrierungsemail eingeschleust werden kann. Dafür muss lediglich der Html code in das Inputfeld im Registrierungsformular der Startseite geschrieben werden. Der Input wird nicht sanitized.
+2024-06-10 16:54:29,022:INFO:root:Rewriting message using OpenAI API.
+2024-06-10 16:54:41,135:INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 16:54:41,763:INFO:root:Rewritten message posted to sicherheits-issues: Ticket-Typ: Issue
+
+Beschreibung: HTML-Code kann in die Registrierungs-E-Mail eingeschleust werden, da die Eingaben nicht gesäubert (sanitized) werden.
+Kategorie: Sicherheit
+Schritte zur Reproduktion: 
+1. Gehe zur Startseite und finde das Registrierungsformular.
+2. Schreibe HTML-Code in das Eingabefeld des Formulars.
+3. Führe die Registrierung aus und prüfe die E-Mail. 
+
+Erwartetes Ergebnis: Eine saubere Registrierungsbestätigungs-E-Mail, ohne dass der HTML-Code ausgeführt wird.
+Tatsächliches Ergebnis: HTML-Code wird in die E-Mail eingeschleust und ausgeführt.
+Screenshots: [N/A]
+2024-06-10 16:54:41,763:INFO:root:Notifying bot listeners about a new message from dboy0z_mobile.
+2024-06-10 16:54:42,252:INFO:root:Updating tester rankings.
+2024-06-10 16:54:45,602:INFO:root:Rankings updated.
+2024-06-10 16:55:27,806:INFO:root:The bot is still running.
+2024-06-10 16:55:31,051:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 16:55:31,051:INFO:root:Updating tester rankings.
+2024-06-10 16:55:34,697:INFO:root:Rankings updated.
+2024-06-10 17:00:31,053:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 17:00:31,054:INFO:root:Updating tester rankings.
+2024-06-10 17:00:34,433:INFO:root:Rankings updated.
+2024-06-10 17:05:31,064:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 17:05:31,064:INFO:root:Updating tester rankings.
+2024-06-10 17:05:34,679:INFO:root:Rankings updated.
+2024-06-10 17:10:27,792:INFO:root:The bot is still running.
+2024-06-10 17:10:31,051:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 17:10:31,051:INFO:root:Updating tester rankings.
+2024-06-10 17:10:34,449:INFO:root:Rankings updated.
+2024-06-10 17:15:31,062:INFO:root:Updating rankings every 15 minutes.
+2024-06-10 17:15:31,062:INFO:root:Updating tester rankings.
+2024-06-10 17:15:34,415:INFO:root:Rankings updated.
+2024-06-10 17:20:09,288:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+2024-06-10 17:20:09,289:INFO:discord.client:logging in using static token
+2024-06-10 17:20:10,007:INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 6ddb00be14a7904bc98e8bd68febfa29).
+2024-06-10 17:20:12,011:INFO:root:We have logged in as Johnny The Service Bot#0733
+2024-06-10 17:20:12,012:INFO:root:Updating rankings on startup.
+2024-06-10 17:20:12,012:INFO:root:Updating tester rankings.
+2024-06-10 17:20:12,014:INFO:root:The bot is still running.
+2024-06-10 17:20:15,539:INFO:root:Rankings updated.
+2024-06-10 17:20:15,539:INFO:root:Updating rankings every 1 minutes.
+2024-06-10 17:20:15,539:INFO:root:Updating tester rankings.
+2024-06-10 17:20:19,009:INFO:root:Rankings updated.
+2024-06-10 17:21:15,565:INFO:root:Updating rankings every 1 minutes.
+2024-06-10 17:21:15,565:INFO:root:Updating tester rankings.
+2024-06-10 17:21:18,951:INFO:root:Rankings updated.
+2024-06-10 17:22:15,542:INFO:root:Updating rankings every 1 minutes.
+2024-06-10 17:22:15,542:INFO:root:Updating tester rankings.
+2024-06-10 17:22:19,040:INFO:root:Rankings updated.
+2024-06-10 17:23:15,548:INFO:root:Updating rankings every 1 minutes.
+2024-06-10 17:23:15,549:INFO:root:Updating tester rankings.
+2024-06-10 17:23:19,084:INFO:root:Rankings updated.
+2024-06-10 17:24:15,568:INFO:root:Updating rankings every 1 minutes.
+2024-06-10 17:24:15,569:INFO:root:Updating tester rankings.
+2024-06-10 17:24:18,970:INFO:root:Rankings updated.
+2024-06-10 17:25:15,544:INFO:root:Updating rankings every 1 minutes.
+2024-06-10 17:25:15,544:INFO:root:Updating tester rankings.
+2024-06-10 17:25:19,481:INFO:root:Rankings updated.
+2024-06-10 17:26:15,569:INFO:root:Updating rankings every 1 minutes.
+2024-06-10 17:26:15,569:INFO:root:Updating tester rankings.
+2024-06-10 17:26:19,015:INFO:root:Rankings updated.
+2024-06-10 17:27:15,552:INFO:root:Updating rankings every 1 minutes.
+2024-06-10 17:27:15,552:INFO:root:Updating tester rankings.
+2024-06-10 17:27:33,338:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+2024-06-10 17:27:33,340:INFO:discord.client:logging in using static token
+2024-06-10 17:27:34,078:INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: c2a1bd89bd4606c8d863ef8807f0bc5c).
+2024-06-10 17:27:36,082:INFO:root:We have logged in as Johnny The Service Bot#0733
+2024-06-10 17:27:36,082:INFO:root:Updating rankings on startup.
+2024-06-10 17:27:36,083:INFO:root:Updating tester rankings.
+2024-06-10 17:27:36,085:INFO:root:The bot is still running.
+2024-06-10 17:27:39,718:INFO:root:Rankings updated.
+2024-06-10 17:27:39,718:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 17:27:39,718:INFO:root:Updating tester rankings.
+2024-06-10 17:27:43,111:INFO:root:Rankings updated.
+2024-06-10 17:37:39,744:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 17:37:39,747:INFO:root:Updating tester rankings.
+2024-06-10 17:37:43,049:INFO:root:Rankings updated.
+2024-06-10 17:39:36,861:INFO:root:Handling server message from knorzbart in channel johnny-features.
+2024-06-10 17:39:47,263:INFO:root:Processing message from knorzbart (ID: 240312734887968768): - Johnny läuft über tmux und ist damit unendlich lange erreichbar
+2024-06-10 17:39:47,263:INFO:root:Rewriting message using OpenAI API.
+2024-06-10 17:39:49,781:INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 17:39:50,639:INFO:root:Rewritten message posted to johnny-answers: Die Nachricht ist entweder zu ungenau oder nicht relevant für die Website.
+2024-06-10 17:39:50,639:INFO:root:Notifying bot listeners about a new message from knorzbart.
+2024-06-10 17:39:50,848:ERROR:root:Error handling message from knorzbart (ID: 240312734887968768) in channel johnny-features: 404 Not Found (error code: 10008): Unknown Message
+2024-06-10 17:39:51,118:INFO:root:Updating tester rankings.
+2024-06-10 17:39:54,916:INFO:root:Rankings updated.
+2024-06-10 17:42:36,108:INFO:root:The bot is still running.
+2024-06-10 17:45:44,138:INFO:discord.gateway:Shard ID None has successfully RESUMED session c2a1bd89bd4606c8d863ef8807f0bc5c.
+2024-06-10 17:47:39,732:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 17:47:39,733:INFO:root:Updating tester rankings.
+2024-06-10 17:47:42,983:INFO:root:Rankings updated.
+2024-06-10 17:49:54,821:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+2024-06-10 17:49:54,823:INFO:discord.client:logging in using static token
+2024-06-10 17:49:55,553:INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 8917678e879e38ba2f4f61e8975affd3).
+2024-06-10 17:49:57,557:INFO:root:We have logged in as Johnny The Service Bot#0733
+2024-06-10 17:49:57,558:INFO:root:Updating rankings on startup.
+2024-06-10 17:49:57,558:INFO:root:Updating tester rankings.
+2024-06-10 17:49:57,559:INFO:root:The bot is still running.
+2024-06-10 17:50:01,251:INFO:root:Rankings updated.
+2024-06-10 17:50:01,252:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 17:50:01,252:INFO:root:Updating tester rankings.
+2024-06-10 17:50:04,846:INFO:root:Rankings updated.
+2024-06-10 18:00:01,272:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 18:00:01,273:INFO:root:Updating tester rankings.
+2024-06-10 18:00:04,986:INFO:root:Rankings updated.
+2024-06-10 18:04:57,596:INFO:root:The bot is still running.
+2024-06-10 18:10:01,262:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 18:10:01,263:INFO:root:Updating tester rankings.
+2024-06-10 18:10:04,737:INFO:root:Rankings updated.
+2024-06-10 18:19:57,588:INFO:root:The bot is still running.
+2024-06-10 18:20:01,257:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 18:20:01,257:INFO:root:Updating tester rankings.
+2024-06-10 18:20:05,379:INFO:root:Rankings updated.
+2024-06-10 18:30:01,265:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 18:30:01,265:INFO:root:Updating tester rankings.
+2024-06-10 18:30:04,672:INFO:root:Rankings updated.
+2024-06-10 18:34:57,581:INFO:root:The bot is still running.
+2024-06-10 18:40:01,270:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 18:40:01,271:INFO:root:Updating tester rankings.
+2024-06-10 18:40:04,919:INFO:root:Rankings updated.
+2024-06-10 18:49:57,573:INFO:root:The bot is still running.
+2024-06-10 18:50:01,256:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 18:50:01,256:INFO:root:Updating tester rankings.
+2024-06-10 18:50:04,887:INFO:root:Rankings updated.
+2024-06-10 19:00:01,260:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 19:00:01,261:INFO:root:Updating tester rankings.
+2024-06-10 19:00:05,065:INFO:root:Rankings updated.
+2024-06-10 19:04:57,564:INFO:root:The bot is still running.
+2024-06-10 19:10:01,271:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 19:10:01,271:INFO:root:Updating tester rankings.
+2024-06-10 19:10:04,916:INFO:root:Rankings updated.
+2024-06-10 19:19:57,588:INFO:root:The bot is still running.
+2024-06-10 19:20:01,254:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 19:20:01,254:INFO:root:Updating tester rankings.
+2024-06-10 19:20:04,926:INFO:root:Rankings updated.
+2024-06-10 19:30:01,256:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 19:30:01,257:INFO:root:Updating tester rankings.
+2024-06-10 19:30:05,133:INFO:root:Rankings updated.
+2024-06-10 19:34:57,592:INFO:root:The bot is still running.
+2024-06-10 19:40:01,258:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 19:40:01,259:INFO:root:Updating tester rankings.
+2024-06-10 19:40:05,761:INFO:root:Rankings updated.
+2024-06-10 19:49:57,585:INFO:root:The bot is still running.
+2024-06-10 19:50:01,256:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 19:50:01,256:INFO:root:Updating tester rankings.
+2024-06-10 19:50:04,782:INFO:root:Rankings updated.
+2024-06-10 20:00:01,261:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 20:00:01,262:INFO:root:Updating tester rankings.
+2024-06-10 20:00:05,509:INFO:root:Rankings updated.
+2024-06-10 20:04:57,576:INFO:root:The bot is still running.
+2024-06-10 20:10:01,256:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 20:10:01,257:INFO:root:Updating tester rankings.
+2024-06-10 20:10:05,390:INFO:root:Rankings updated.
+2024-06-10 20:19:57,570:INFO:root:The bot is still running.
+2024-06-10 20:20:01,256:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 20:20:01,257:INFO:root:Updating tester rankings.
+2024-06-10 20:20:05,089:INFO:root:Rankings updated.
+2024-06-10 20:30:01,288:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 20:30:01,288:INFO:root:Updating tester rankings.
+2024-06-10 20:30:05,197:INFO:root:Rankings updated.
+2024-06-10 20:34:57,560:INFO:root:The bot is still running.
+2024-06-10 20:40:01,271:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 20:40:01,271:INFO:root:Updating tester rankings.
+2024-06-10 20:40:05,089:INFO:root:Rankings updated.
+2024-06-10 20:42:43,082:INFO:discord.gateway:Shard ID None has successfully RESUMED session 8917678e879e38ba2f4f61e8975affd3.
+2024-06-10 20:49:57,580:INFO:root:The bot is still running.
+2024-06-10 20:50:01,256:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 20:50:01,257:INFO:root:Updating tester rankings.
+2024-06-10 20:50:04,701:INFO:root:Rankings updated.
+2024-06-10 21:00:01,260:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 21:00:01,261:INFO:root:Updating tester rankings.
+2024-06-10 21:00:05,182:INFO:root:Rankings updated.
+2024-06-10 21:04:57,575:INFO:root:The bot is still running.
+2024-06-10 21:10:01,282:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 21:10:01,282:INFO:root:Updating tester rankings.
+2024-06-10 21:10:04,651:INFO:root:Rankings updated.
+2024-06-10 21:19:57,568:INFO:root:The bot is still running.
+2024-06-10 21:20:01,256:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 21:20:01,256:INFO:root:Updating tester rankings.
+2024-06-10 21:20:05,395:INFO:root:Rankings updated.
+2024-06-10 21:26:29,193:INFO:discord.gateway:Shard ID None has successfully RESUMED session 8917678e879e38ba2f4f61e8975affd3.
+2024-06-10 21:30:01,259:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 21:30:01,260:INFO:root:Updating tester rankings.
+2024-06-10 21:30:05,009:INFO:root:Rankings updated.
+2024-06-10 21:34:57,573:INFO:root:The bot is still running.
+2024-06-10 21:40:01,273:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 21:40:01,274:INFO:root:Updating tester rankings.
+2024-06-10 21:40:04,949:INFO:root:Rankings updated.
+2024-06-10 21:49:57,567:INFO:root:The bot is still running.
+2024-06-10 21:50:01,256:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 21:50:01,256:INFO:root:Updating tester rankings.
+2024-06-10 21:50:04,682:INFO:root:Rankings updated.
+2024-06-10 22:00:01,263:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 22:00:01,265:INFO:root:Updating tester rankings.
+2024-06-10 22:00:05,203:INFO:root:Rankings updated.
+2024-06-10 22:04:57,592:INFO:root:The bot is still running.
+2024-06-10 22:10:01,266:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 22:10:01,266:INFO:root:Updating tester rankings.
+2024-06-10 22:10:05,371:INFO:root:Rankings updated.
+2024-06-10 22:19:57,592:INFO:root:The bot is still running.
+2024-06-10 22:20:01,257:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 22:20:01,258:INFO:root:Updating tester rankings.
+2024-06-10 22:20:05,101:INFO:root:Rankings updated.
+2024-06-10 22:30:01,271:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 22:30:01,272:INFO:root:Updating tester rankings.
+2024-06-10 22:30:05,084:INFO:root:Rankings updated.
+2024-06-10 22:34:57,585:INFO:root:The bot is still running.
+2024-06-10 22:40:01,292:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 22:40:01,293:INFO:root:Updating tester rankings.
+2024-06-10 22:40:04,844:INFO:root:Rankings updated.
+2024-06-10 22:49:57,577:INFO:root:The bot is still running.
+2024-06-10 22:50:01,258:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 22:50:01,258:INFO:root:Updating tester rankings.
+2024-06-10 22:50:04,860:INFO:root:Rankings updated.
+2024-06-10 23:00:01,255:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 23:00:01,256:INFO:root:Updating tester rankings.
+2024-06-10 23:00:05,656:INFO:root:Rankings updated.
+2024-06-10 23:04:57,571:INFO:root:The bot is still running.
+2024-06-10 23:10:01,275:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 23:10:01,275:INFO:root:Updating tester rankings.
+2024-06-10 23:10:04,965:INFO:root:Rankings updated.
+2024-06-10 23:19:57,562:INFO:root:The bot is still running.
+2024-06-10 23:20:01,256:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 23:20:01,257:INFO:root:Updating tester rankings.
+2024-06-10 23:20:04,774:INFO:root:Rankings updated.
+2024-06-10 23:30:01,261:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 23:30:01,261:INFO:root:Updating tester rankings.
+2024-06-10 23:30:04,616:INFO:root:Rankings updated.
+2024-06-10 23:34:57,584:INFO:root:The bot is still running.
+2024-06-10 23:40:01,263:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 23:40:01,264:INFO:root:Updating tester rankings.
+2024-06-10 23:40:04,721:INFO:root:Rankings updated.
+2024-06-10 23:49:57,590:INFO:root:The bot is still running.
+2024-06-10 23:50:01,257:INFO:root:Updating rankings every 10 minutes.
+2024-06-10 23:50:01,257:INFO:root:Updating tester rankings.
+2024-06-10 23:50:05,124:INFO:root:Rankings updated.
+2024-06-11 00:00:01,260:INFO:root:Updating rankings every 10 minutes.
+2024-06-11 00:00:01,261:INFO:root:Updating tester rankings.
+2024-06-11 00:00:05,206:INFO:root:Rankings updated.
+2024-06-11 00:03:45,922:INFO:discord.gateway:Shard ID None has successfully RESUMED session 8917678e879e38ba2f4f61e8975affd3.
+2024-06-11 00:04:57,590:INFO:root:The bot is still running.
+2024-06-11 00:10:01,257:INFO:root:Updating rankings every 10 minutes.
+2024-06-11 00:10:01,257:INFO:root:Updating tester rankings.
+2024-06-11 00:10:04,635:INFO:root:Rankings updated.
+2024-06-11 00:19:57,583:INFO:root:The bot is still running.
+2024-06-11 00:20:01,256:INFO:root:Updating rankings every 10 minutes.
+2024-06-11 00:20:01,257:INFO:root:Updating tester rankings.
+2024-06-11 00:20:04,772:INFO:root:Rankings updated.
+2024-06-11 00:30:01,261:INFO:root:Updating rankings every 10 minutes.
+2024-06-11 00:30:01,261:INFO:root:Updating tester rankings.
+2024-06-11 00:30:04,599:INFO:root:Rankings updated.
+2024-06-11 00:34:57,560:INFO:root:The bot is still running.
+2024-06-11 00:40:01,268:INFO:root:Updating rankings every 10 minutes.
+2024-06-11 00:40:01,269:INFO:root:Updating tester rankings.
+2024-06-11 00:40:04,444:INFO:root:Rankings updated.
+2024-06-11 00:49:57,563:INFO:root:The bot is still running.
+2024-06-11 00:50:01,256:INFO:root:Updating rankings every 10 minutes.
+2024-06-11 00:50:01,257:INFO:root:Updating tester rankings.
+2024-06-11 00:50:04,616:INFO:root:Rankings updated.
+2024-06-11 01:00:01,264:INFO:root:Updating rankings every 10 minutes.
+2024-06-11 01:00:01,264:INFO:root:Updating tester rankings.
+2024-06-11 01:00:04,775:INFO:root:Rankings updated.
+2024-06-11 01:04:57,561:INFO:root:The bot is still running.
+2024-06-11 01:10:01,256:INFO:root:Updating rankings every 10 minutes.
+2024-06-11 01:10:01,257:INFO:root:Updating tester rankings.
+2024-06-11 01:10:04,820:INFO:root:Rankings updated.
+2024-06-11 01:19:57,570:INFO:root:The bot is still running.
+2024-06-11 01:20:01,256:INFO:root:Updating rankings every 10 minutes.
+2024-06-11 01:20:01,256:INFO:root:Updating tester rankings.
+2024-06-11 01:20:04,882:INFO:root:Rankings updated.
+2024-06-11 01:30:01,271:INFO:root:Updating rankings every 10 minutes.
+2024-06-11 01:30:01,272:INFO:root:Updating tester rankings.
+2024-06-11 01:30:05,009:INFO:root:Rankings updated.
+2024-06-11 01:34:57,586:INFO:root:The bot is still running.
+2024-06-11 01:40:01,253:INFO:root:Updating rankings every 10 minutes.
+2024-06-11 01:40:01,254:INFO:root:Updating tester rankings.
+2024-06-11 01:40:04,741:INFO:root:Rankings updated.
+2024-06-11 01:49:57,580:INFO:root:The bot is still running.
+2024-06-11 01:50:01,257:INFO:root:Updating rankings every 10 minutes.
+2024-06-11 01:50:01,257:INFO:root:Updating tester rankings.
+2024-06-11 01:50:04,399:INFO:root:Rankings updated.
