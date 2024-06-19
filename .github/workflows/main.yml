@@ -36,6 +36,20 @@ jobs:
     needs: build
 
     steps:
+    - name: SSH and install Docker
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.SERVER_HOST }}
+        username: ${{ secrets.SERVER_USERNAME }}
+        key: ${{ secrets.SERVER_SSH_KEY }}
+        script: |
+          curl -fsSL https://get.docker.com -o get-docker.sh
+          sudo sh get-docker.sh
+          sudo usermod -aG docker $USER
+          sudo systemctl start docker
+          sudo systemctl enable docker
+          sudo mkdir -p /root/JohnnyBot/logs
+
     - name: SSH and deploy
       uses: appleboy/ssh-action@master
       with:
