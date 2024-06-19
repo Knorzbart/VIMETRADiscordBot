@@ -36,18 +36,22 @@ jobs:
     needs: build
 
     steps:
-    - name: SSH and install Docker
+    - name: SSH and check Docker
       uses: appleboy/ssh-action@master
       with:
         host: ${{ secrets.SERVER_HOST }}
         username: ${{ secrets.SERVER_USERNAME }}
         key: ${{ secrets.SERVER_SSH_KEY }}
         script: |
-          curl -fsSL https://get.docker.com -o get-docker.sh
-          sudo sh get-docker.sh
-          sudo usermod -aG docker $USER
-          sudo systemctl start docker
-          sudo systemctl enable docker
+          if ! command -v docker &> /dev/null
+          then
+              echo "Docker could not be found, installing..."
+              curl -fsSL https://get.docker.com -o get-docker.sh
+              sudo sh get-docker.sh
+              sudo usermod -aG docker $USER
+              sudo systemctl start docker
+              sudo systemctl enable docker
+          fi
           sudo mkdir -p /root/JohnnyBot/logs
 
     - name: SSH and deploy
@@ -60,7 +64,7 @@ jobs:
           sudo docker pull ${{ secrets.DOCKER_USERNAME }}/johnnythebot:latest
           sudo docker stop johnnythebot || true
           sudo docker rm johnnythebot || true
-          sudo docker run -d --name johnnythebot -v /root/JohnnyBot/logs:/app/logs \
+          sudo docker run -d --name johnnythebot --restart unless-stopped -v /root/JohnnyBot/logs:/app/logs \
             -e OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }} \
             -e DISCORD_TOKEN=${{ secrets.DISCORD_TOKEN }} \
             -e GUILD_ID=${{ secrets.GUILD_ID }} \
