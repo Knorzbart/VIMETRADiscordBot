@@ -60,4 +60,10 @@ jobs:
           sudo docker pull ${{ secrets.DOCKER_USERNAME }}/johnnythebot:latest
           sudo docker stop johnnythebot || true
           sudo docker rm johnnythebot || true
-          sudo docker run -d --name johnnythebot -v /root/JohnnyBot/logs:/app/logs ${{ secrets.DOCKER_USERNAME }}/johnnythebot:latest
+          sudo docker run -d --name johnnythebot -v /root/JohnnyBot/logs:/app/logs \
+            -e OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }} \
+            -e DISCORD_TOKEN=${{ secrets.DISCORD_TOKEN }} \
+            -e GUILD_ID=${{ secrets.GUILD_ID }} \
+            ${{ secrets.DOCKER_USERNAME }}/johnnythebot:latest
+          sudo docker ps -a
+          sudo docker logs johnnythebot
