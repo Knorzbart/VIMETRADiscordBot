@@ -192,13 +192,21 @@ async def handle_direct_message(message):
         if guild is None:
             raise ValueError(f"Guild with ID {YOUR_GUILD_ID} not found.")
         channel = get_channel_by_name(guild, category)
-        messages = split_message(f"Rewritten issue report from {message.author.name}:\n{processed_message}\n{'_'*40}")
-        sent_messages = await post_split_message(channel, messages)
-
+        
         if message.attachments:
-            for attachment in message.attachments:
-                await channel.send(file=await attachment.to_file())
+            files = [await attachment.to_file() for attachment in message.attachments]
+            sent_message = await channel.send(content=f"Rewritten issue report from {message.author.name}:\n{processed_message}\n{'_'*40}", files=files)
+        else:
+            messages = split_message(f"Rewritten issue report from {message.author.name}:\n{processed_message}\n{'_'*40}")
+            sent_message = await post_split_message(channel, messages)
 
+        if guild:
+            await dump_message(guild, message.author, message.content)
+            if message.attachments:
+                files = [await attachment.to_file() for attachment in message.attachments]
+                dump_channel = get_channel_by_name(guild, "johnny-dump")
+                await dump_channel.send(content=f"**Original message from {message.author.name}:**\n{message.content}\n{'_'*40}", files=files)
+        
         logger.info(f"Rewritten message posted to {channel.name}: {processed_message}")
         await notify_bot_listeners(guild, message.author.name, category, processed_message)
         await bot_response.delete()
@@ -227,12 +235,20 @@ async def handle_server_message(message):
         if guild is None:
             raise ValueError(f"Guild with ID {YOUR_GUILD_ID} not found.")
         channel = get_channel_by_name(guild, category)
-        messages = split_message(f"Rewritten issue report:\n{processed_message}\n{'_'*40}")
-        sent_messages = await post_split_message(channel, messages)
-
+        
         if message.attachments:
-            for attachment in message.attachments:
-                await channel.send(file=await attachment.to_file())
+            files = [await attachment.to_file() for attachment in message.attachments]
+            sent_message = await channel.send(content=f"Rewritten issue report:\n{processed_message}\n{'_'*40}", files=files)
+        else:
+            messages = split_message(f"Rewritten issue report:\n{processed_message}\n{'_'*40}")
+            sent_message = await post_split_message(channel, messages)
+
+        if guild:
+            await dump_message(guild, message.author, message.content)
+            if message.attachments:
+                files = [await attachment.to_file() for attachment in message.attachments]
+                dump_channel = get_channel_by_name(guild, "johnny-dump")
+                await dump_channel.send(content=f"**Original message from {message.author.name}:**\n{message.content}\n{'_'*40}", files=files)
 
         logger.info(f"Rewritten message posted to {channel.name}: {processed_message}")
         await notify_bot_listeners(guild, message.author.name, category, processed_message)
